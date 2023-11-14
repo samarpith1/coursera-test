@@ -1,0 +1,44 @@
+/* Add this CSS to your stylesheet */
+.custom-logo {
+    font-size: 20px; /* You can adjust the font size as needed */
+  }
+
+.center-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 5vh; 
+    margin-top: 1px;
+    margin-left: 1px;
+}
+#mancity-logo {
+    margin-left: 10px;
+}
+
+#mancity-logo1 {
+    margin-left: 10px;
+}
+#mancity-logo2 {
+    margin-left: 10px;
+}
+
+.news-card__heading{
+
+    margin-left: 5px;
+}
+
+.super-banner__image{
+    margin-left: 100px;
+}
+
+.mc-lazy-image{
+    margin-left: 20px;
+}
+.news-card__heading-icon-wrapper{
+    margin-right: 100px;
+}
+
+.widgets-banner__icon-wrapper{
+    width: 100px;
+    height: 50px;
+}
